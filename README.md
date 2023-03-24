@@ -20,7 +20,8 @@ With Glaze (above), a model trains on cloaked versions of Karla's art, and learn
 - Despite these risks, we designed Glaze to be as robust as possible, and have tested it extensively against known systems and countermeasures. To the best of our knowledge, this is the only available tool for artists to proactively protect their style while posting their art online today. Note that this is ongoing research, and we will continuously update our tools to improve its robustness. 
 
 
-# About UChicago SAND Lab team (originally developed by)
+# About UChicago SAND Lab team 
+## Originally developed by:
 
 We are an academic research group of PhD students and CS professors interested in protecting Internet users from invasive uses of machine learning.
 
